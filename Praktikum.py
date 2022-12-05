@@ -47,7 +47,7 @@ def salah():
       
 while True:
     print()
-    lanjut = str(input('MENU\n=======\n(L)ihat\n(T)ambah\n(U)bah\n(H)apus\n(C)ari\n(K)eluar\n=======\nPilihan : '))
+    lanjut = str(input('MENU\n=======\n(L)ihat\n(T)ambah\n(U)bah\n(H)apus\n(K)eluar\n=======\nPilihan : '))
     os.system("cls")
     if lanjut.lower() == 'l':
         if data.items():
