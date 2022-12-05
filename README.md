@@ -1,2 +1,7 @@
 # Praktikum6
-sub rutin / fungsi
+## PROGRAM INPUT NILAI MAHASISWA MENGGUNAKAN SYNTAX FUNGSI 
+` Nama      : DIPCA ANUGRAH `
+` NIM       : 312210666`
+` Kelas     : TI.22.A.4`
+
+
