@@ -125,7 +125,7 @@ while True:
         else:
             salah()
     elif lanjut.lower() == 'u':
-        print('Data yang ingin di hapus')
+        print('Data yang ingin di ubah')
         nama = str(input('Nama\t\t: '))
         if nama in data.keys():
             ubah(nama)
